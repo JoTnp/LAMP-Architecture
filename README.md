@@ -68,7 +68,7 @@ a:hover{
 
 <h3> Definition </h3>
 <ul>
-  <li><strong>English (Source 1 - TechTarget) :</strong> "LAMP is an open-source web application stack consisting of Linux, Apache, MySQL, and PHP. These components work together to provide a stable and scalable platform for developing and hosting dynamic web applications."</li>
+  <li><strong>English (Source 1 - AWS) :</strong> "LAMP is an open-source web application stack consisting of Linux, Apache, MySQL, and PHP. These components work together to provide a stable and scalable platform for developing and hosting dynamic web applications."</li>
   
   <li><strong>English (Source 2 - IBM) :</strong> "LAMP is a software stack that includes Linux as the operating system, Apache as the web server, MySQL as the database management system, and PHP as the server-side scripting language for building web applications."</li>
   
